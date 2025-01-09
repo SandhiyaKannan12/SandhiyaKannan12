@@ -1,6 +1,6 @@
 Hi there 👋
 # 💫 About Me:
-I am a passionate web developer with a keen interest in creating responsive and user-friendly websites. I am more interested in DevOps where i could  develop and deploy websites.
+I am a passionate web developer with a keen interest in creating responsive and user-friendly websites.
 
 
 ## 🌐 Socials:
